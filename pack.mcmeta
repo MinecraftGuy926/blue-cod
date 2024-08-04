@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 41,
+	"supported_formats": {
+      "min_inclusive": 5,
+      "max_inclusive": 48
+    },
+    "description": "§bThe return of blue fish!       §7Made by MinecrafGuy926"
+  }
+}
