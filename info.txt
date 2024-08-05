@@ -1,0 +1,24 @@
+[Compatible] with Unique Spawn Eggs: https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/
+
+***Make sure this pack is above it in the order of packs.
+
+Alternatively, you can navigate to  ( Blue Cod.zip\assets\minecraft\textures\item\cod_spawn_egg.png )  copy the "cod_spawn_egg.png",
+& paste it in the Unique Spawn eggs resource pack at ( unique-spawn-eggs-v1-5.zip\assets\minecraft\textures\item\ )
+
+
+[Compatible] with Eating Animations Mod: https://modrinth.com/mod/eating-animation
+
+
+
+Feel free to use any of the textures for you own purposes.
+
+Retextured the cod entity in blockbench: https://www.blockbench.net/
+Tried to make it resemble the item texture as best I could.
+
+I used paint.net for all other texture changes. 
+I highly recommend it for anybody trying to customize their own textures!
+https://www.getpaint.net/download.html
+
+Made by MinecraftGuy926
+
+Enjoy! :D
